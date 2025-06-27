@@ -1,0 +1,16 @@
+1. write a ansible playbook to install git
+   write a ansible playbook to install java
+
+2. write a playbook to install git and maven and clone the GitHub repo with maven project and perform      build life cycle using shell scripting
+
+
+3. install docker
+   write a docker file script to print hello java in master node 
+   copy docker file to worker node and prepare the docker image and run the container
+
+4. write a ansible playbook
+   install docker 
+   pull nginx image and run the container 
+   take a snapshot of running container and push to docker hub and remove the container and remove the      image
+
+
